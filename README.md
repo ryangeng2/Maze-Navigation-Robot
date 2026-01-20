@@ -2,6 +2,9 @@
 A maze navigation robot that I built for my Cornerstone of Engineering Final Project.
 [![Watch the video](https://img.youtube.com/vi/dJXNfRP5AmQ/maxresdefault.jpg)](https://youtube.com/shorts/dJXNfRP5AmQ?feature=share))
 
+![IMG_1347](https://github.com/user-attachments/assets/a3757109-3389-4283-8496-ed73f8fe39aa)
+
+
 Components:
 (1) L298N Motor Driver
 (2) 200 RPM TT Motor

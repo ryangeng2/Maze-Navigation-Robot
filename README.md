@@ -1,6 +1,6 @@
 # Maze-Navigation-Robot
 A maze navigation robot that I built for my Cornerstone of Engineering Final Project.
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/dJXNfRP5AmQ?feature=share))
+[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/dJXNfRP5AmQ?feature=share))
 
 Components:
 (1) L298N Motor Driver
